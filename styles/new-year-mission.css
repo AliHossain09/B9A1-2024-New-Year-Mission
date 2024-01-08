@@ -204,18 +204,20 @@ a:hover {
 
 }
 
-.right{
+.right {
     margin: 0px 50px;
     padding-left: 30px;
 }
-.year{
+
+.year {
     color: #F00;
     font-family: Inter;
     font-size: 35px;
     font-weight: 700;
     padding-top: 20px;
 }
-.discription2{
+
+.discription2 {
     font-family: Inter;
     font-size: 20px;
     font-weight: 400;
@@ -224,14 +226,36 @@ a:hover {
     padding-top: 20px;
     padding-bottom: 20px;
 }
-.im2{
-padding-top: 30px;
-height: 150px;
+
+.im2 {
+    padding-top: 30px;
+    height: 150px;
 }
-.left{
+
+.left {
     margin-right: 50px;
 }
-.im1{
-   border: 20px solid red;
-   border-radius: 50%; 
+
+.im1 {
+    border: 20px solid red;
+    border-radius: 50%;
 }
+
+/* holiday sale style section  */
+.holiday-container {
+   
+}
+
+.title-section {}
+
+.holi-title1 {}
+
+.holi-title2 {}
+
+.holi-title3 {}
+
+.imaag1 {}
+
+.imaag2 {}
+
+.imaag3 {}
