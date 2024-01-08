@@ -243,19 +243,61 @@ a:hover {
 
 /* holiday sale style section  */
 .holiday-container {
-   
+    width: 1320px;
+    height: 900px;
+    background-image: url("../new-images/Rectangle\ 2.png");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    margin: 120px 128px;
 }
 
-.title-section {}
+.title-section {
+    text-align: center;
+}
 
-.holi-title1 {}
+.holi-title1 {
+    color: #070211;
+    font-family: Inter;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
 
-.holi-title2 {}
+.holi-title2 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 55px;
+    font-weight: 600;
+    padding-bottom: 15px;
+}
+.separate-color2{
+    color: #F00;
+}
+.holi-title3 {
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    width: 1050px;
+    color: grey;
+    padding-bottom: 25px;
+}
 
-.holi-title3 {}
+.image-container {
+    display: flex;
+}
 
-.imaag1 {}
+.imaag1 {
+    padding-top: 55px;
+width: 300px;
+height: 300px;
+}
 
-.imaag2 {}
+.imaag2 {
+    width: 200px;
+    height: 200px;
+}
 
-.imaag3 {}
+.imaag3 {
+    margin-right: 100px;
+    width: 400px;
+    height: 400px;
+}
