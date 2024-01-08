@@ -108,7 +108,7 @@ primari-color {
 }
 
 .join-now {
-color: #03e9f4;
+    color: #03e9f4;
     text-align: center;
     font-family: Inter;
     font-size: 20px;
@@ -116,16 +116,54 @@ color: #03e9f4;
     text-transform: uppercase;
     text-decoration: none;
     margin: 0px 100px;
-   
+
 }
-a:hover{
-    background-color: #03e9f4 ;
+
+a:hover {
+    background-color: #03e9f4;
     color: #070211;
     border-image-width: 50%;
-    
+
 }
 
 .group-imag {
     margin-top: 20px;
     width: 50%;
+}
+
+/* meeting information section  */
+
+.meeting-section-container {
+    background-color: rgba(238, 216, 216, 0.582);
+               width: 1320px;
+              height: 400px;
+              margin: 0px 128px;
+              border-radius: 10px;
+
+}
+
+.infirnation {
+    color: #070211;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 50px;
+    text-align: center;
+    padding: 100px 0px 0px 0px;
+
+}
+
+.separate-color {
+    color: rgb(236, 84, 84);
+}
+
+.button {
+    border-radius: 8px;
+    background: #F00;
+    color: #FFFFFF;
+    border: none;
+    font-size: 20px;
+    margin: 20px 580px;
+    padding: 8px 20px;
+    
 }
