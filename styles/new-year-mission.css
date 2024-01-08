@@ -1,0 +1,44 @@
+* {
+    padding: 0%;
+    margin: 0%;
+   
+    
+}
+
+/* common color */
+primari-color {
+    color: #FFFFFF;
+}
+
+/* head section style */
+
+.main-head{
+    background-image: url(../new-images/Banner\ Image.png);
+    width: 1320px;
+    height: 600px;
+    margin: 50px 140px 140px ;
+    
+    
+}
+.heading-tille1 {
+    color: #FFFFFF;
+    font-family: Merriweather;
+    font-size: 32px;
+    text-align: center;
+    padding-top:212px ;
+   
+}
+
+.heading-tille2 {
+    color: #FFFFFF;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    text-align: center;
+    
+    
+    
+    
+    
+
+
